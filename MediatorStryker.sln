@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "src\Common\Common.csproj", "{6B055280-BE17-455D-9FC7-27099BD030FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorStryker", "src\MediatorStryker\MediatorStryker.csproj", "{93127CD2-6FFE-4A1F-A4B9-8BF0FCC03567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorStryker.Tests", "test\MediatorStryker.Tests\MediatorStryker.Tests.csproj", "{92EBE885-FCEC-4E2F-91F8-86DE544DC38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B055280-BE17-455D-9FC7-27099BD030FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B055280-BE17-455D-9FC7-27099BD030FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B055280-BE17-455D-9FC7-27099BD030FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B055280-BE17-455D-9FC7-27099BD030FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93127CD2-6FFE-4A1F-A4B9-8BF0FCC03567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93127CD2-6FFE-4A1F-A4B9-8BF0FCC03567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93127CD2-6FFE-4A1F-A4B9-8BF0FCC03567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93127CD2-6FFE-4A1F-A4B9-8BF0FCC03567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EBE885-FCEC-4E2F-91F8-86DE544DC38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EBE885-FCEC-4E2F-91F8-86DE544DC38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EBE885-FCEC-4E2F-91F8-86DE544DC38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EBE885-FCEC-4E2F-91F8-86DE544DC38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
